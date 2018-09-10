@@ -5,9 +5,9 @@
   <subtitle>与代码为伴</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://virvil.github.io/"/>
   <updated>2018-09-10T13:47:11.459Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://virvil.github.io/</id>
   
   <author>
     <name>Virvil</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>JWT（JSON WEB TOKENS）的使用，无状态token机制</title>
-    <link href="http://yoursite.com/2018/09/10/JWT%EF%BC%88JSON-WEB-TOKENS%EF%BC%89%E7%9A%84%E4%BD%BF%E7%94%A8%EF%BC%8C%E6%97%A0%E7%8A%B6%E6%80%81token%E6%9C%BA%E5%88%B6/"/>
-    <id>http://yoursite.com/2018/09/10/JWT（JSON-WEB-TOKENS）的使用，无状态token机制/</id>
+    <link href="https://virvil.github.io/2018/09/10/JWT%EF%BC%88JSON-WEB-TOKENS%EF%BC%89%E7%9A%84%E4%BD%BF%E7%94%A8%EF%BC%8C%E6%97%A0%E7%8A%B6%E6%80%81token%E6%9C%BA%E5%88%B6/"/>
+    <id>https://virvil.github.io/2018/09/10/JWT（JSON-WEB-TOKENS）的使用，无状态token机制/</id>
     <published>2018-09-10T13:44:04.000Z</published>
     <updated>2018-09-10T13:47:11.459Z</updated>
     
@@ -34,21 +34,21 @@
     
     </summary>
     
-      <category term="后端" scheme="http://yoursite.com/categories/%E5%90%8E%E7%AB%AF/"/>
+      <category term="后端" scheme="https://virvil.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
     
     
-      <category term="jwt" scheme="http://yoursite.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://virvil.github.io/tags/jwt/"/>
     
-      <category term="单点登录" scheme="http://yoursite.com/tags/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95/"/>
+      <category term="单点登录" scheme="https://virvil.github.io/tags/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95/"/>
     
-      <category term="token" scheme="http://yoursite.com/tags/token/"/>
+      <category term="token" scheme="https://virvil.github.io/tags/token/"/>
     
   </entry>
   
   <entry>
     <title>linux完全分布式redis集群安装</title>
-    <link href="http://yoursite.com/2018/09/09/linux%E5%AE%8C%E5%85%A8%E5%88%86%E5%B8%83%E5%BC%8Fredis%E9%9B%86%E7%BE%A4%E5%AE%89%E8%A3%85/"/>
-    <id>http://yoursite.com/2018/09/09/linux完全分布式redis集群安装/</id>
+    <link href="https://virvil.github.io/2018/09/09/linux%E5%AE%8C%E5%85%A8%E5%88%86%E5%B8%83%E5%BC%8Fredis%E9%9B%86%E7%BE%A4%E5%AE%89%E8%A3%85/"/>
+    <id>https://virvil.github.io/2018/09/09/linux完全分布式redis集群安装/</id>
     <published>2018-09-09T15:34:53.000Z</published>
     <updated>2018-09-10T13:46:35.858Z</updated>
     
@@ -63,21 +63,21 @@
     
     </summary>
     
-      <category term="后端" scheme="http://yoursite.com/categories/%E5%90%8E%E7%AB%AF/"/>
+      <category term="后端" scheme="https://virvil.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
     
     
-      <category term="redis" scheme="http://yoursite.com/tags/redis/"/>
+      <category term="redis" scheme="https://virvil.github.io/tags/redis/"/>
     
-      <category term="集群" scheme="http://yoursite.com/tags/%E9%9B%86%E7%BE%A4/"/>
+      <category term="集群" scheme="https://virvil.github.io/tags/%E9%9B%86%E7%BE%A4/"/>
     
-      <category term="完全分布式" scheme="http://yoursite.com/tags/%E5%AE%8C%E5%85%A8%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+      <category term="完全分布式" scheme="https://virvil.github.io/tags/%E5%AE%8C%E5%85%A8%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>hadoop</title>
-    <link href="http://yoursite.com/2018/09/08/hadoop/"/>
-    <id>http://yoursite.com/2018/09/08/hadoop/</id>
+    <link href="https://virvil.github.io/2018/09/08/hadoop/"/>
+    <id>https://virvil.github.io/2018/09/08/hadoop/</id>
     <published>2018-09-08T15:28:09.000Z</published>
     <updated>2018-09-08T16:30:52.394Z</updated>
     
@@ -93,19 +93,19 @@
     
     </summary>
     
-      <category term="大数据" scheme="http://yoursite.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+      <category term="大数据" scheme="https://virvil.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
-      <category term="hadoop" scheme="http://yoursite.com/tags/hadoop/"/>
+      <category term="hadoop" scheme="https://virvil.github.io/tags/hadoop/"/>
     
-      <category term="分布式" scheme="http://yoursite.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+      <category term="分布式" scheme="https://virvil.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/09/08/hello-world/"/>
-    <id>http://yoursite.com/2018/09/08/hello-world/</id>
+    <link href="https://virvil.github.io/2018/09/08/hello-world/"/>
+    <id>https://virvil.github.io/2018/09/08/hello-world/</id>
     <published>2018-09-08T13:37:51.672Z</published>
     <updated>2018-09-08T13:37:51.672Z</updated>
     
